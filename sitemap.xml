@@ -3,42 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>jeyzielgama.github.io/</loc>
+    <loc>https://jeyziel.github.io/</loc>
     <lastmod>2019-07-16T19:47:47-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jeyzielgama.github.io/categories/</loc>
+    <loc>https://jeyziel.github.io/categories/</loc>
     <lastmod>2019-07-16T19:47:47-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jeyzielgama.github.io/post/introducao-a-algebra-linear/</loc>
+    <loc>https://jeyziel.github.io/post/introducao-a-algebra-linear/</loc>
     <lastmod>2019-07-16T19:47:47-03:00</lastmod>
   </url>
   
   <url>
-    <loc>jeyzielgama.github.io/post/</loc>
-    <lastmod>2019-07-16T19:47:47-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>jeyzielgama.github.io/tags/</loc>
+    <loc>https://jeyziel.github.io/post/</loc>
     <lastmod>2019-07-16T19:47:47-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jeyzielgama.github.io/tags/matem%C3%A1tica/</loc>
+    <loc>https://jeyziel.github.io/tags/</loc>
     <lastmod>2019-07-16T19:47:47-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jeyzielgama.github.io/categories/math/</loc>
+    <loc>https://jeyziel.github.io/tags/algebra/</loc>
+    <lastmod>2019-07-16T19:47:47-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeyziel.github.io/tags/matem%C3%A1tica/</loc>
+    <lastmod>2019-07-16T19:47:47-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeyziel.github.io/categories/math/</loc>
     <lastmod>2019-07-16T19:47:47-03:00</lastmod>
     <priority>0</priority>
   </url>
